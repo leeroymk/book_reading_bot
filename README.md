@@ -1,2 +1,1 @@
-# book_reading_bot
-read books with telegram
+Book reading Bot
